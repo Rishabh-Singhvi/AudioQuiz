@@ -10,7 +10,7 @@
 			
 			<button @click="loginEmail">Sign In</button>
 			<br>
-			{{error}}
+			<h1>{{error}}</h1>
 		</form>
 	</div>
 	<div class="overlay-container">
